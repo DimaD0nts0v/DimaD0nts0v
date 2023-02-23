@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dmitry</h1>
-<h3 align="center">And a future Senior Data Analyst</h3>
+<h3 align="center">And a future Senior Data Analyst!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimad0nts0v&label=Profile%20views&color=0e75b6&style=flat" alt="dimad0nts0v" /> </p>
 
-- 📫 How to reach me **elysium01@yandex.ru**
+- 📫 How to reach me **https://t.me/DimitryDontsov**
 
+- 🌱 I am currently analyzing various data, looking for insights and making visualizations. In general, I work on pet projects)
+
+- 👨‍💻 All of my projects are available here or at **https://public.tableau.com/app/profile/ddontsov**
 - 📄 Know about my experiences [https://docs.google.com/document/d/1hjzF4QqhM55hY9POMbsg7EoHC6seU_krvnEnPhsgMzM/edit?usp=sharing](https://docs.google.com/document/d/1hjzF4QqhM55hY9POMbsg7EoHC6seU_krvnEnPhsgMzM/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
@@ -14,10 +17,16 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimad0nts0v&show_icons=true&locale=en&layout=compact" alt="dimad0nts0v" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dimad0nts0v&show_icons=true&locale=en" alt="dimad0nts0v" /></p>
