@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dmitry</h1>
-<h3 align="center">And a future Senior Data Analyst!</h3>
+<h3 align="center">And I'm a future Senior Data Analyst!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimad0nts0v&label=Profile%20views&color=0e75b6&style=flat" alt="dimad0nts0v" /> </p>
 
@@ -14,6 +14,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/dmitry-dontsov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dmitry-dontsov" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hellcat_404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hellcat_404" height="30" width="40" /></a>
+<a href="https://www.codewars.com/users/hellcat_404" target="blank"><img align="center" src="https://docs.codewars.com/logo.svg" alt="dmitry-dontsov" height="30" width="30" /></a>
+<a href="https://platform.stratascratch.com/user/hellcat_404" target="blank"><img align="center" src="https://styles.redditmedia.com/t5_n4wzu/styles/profileIcon_sy3y4ieugcl11.png?width=256&height=256&frame=1&auto=webp&crop=256:256,smart&s=acc6216e95fafbec7fd4d44141125c667832f3aa" alt="dmitry-dontsov" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
