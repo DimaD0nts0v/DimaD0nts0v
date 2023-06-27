@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimad0nts0v&label=Profile%20views&color=0e75b6&style=flat" alt="dimad0nts0v" /> </p>
 
-- 📫 How to reach me **https://t.me/DimitryDontsov**
+- 📫 How to reach me **https://t.me/dm_dontsov**
 
-- 🌱 I am currently analyzing various data, looking for insights and making visualizations. In general, I work on pet projects)
+- 🌱 I am currently doing an internship at Ozon as a Research Analyst
 
 - 👨‍💻 All of my projects are available here or at **https://public.tableau.com/app/profile/ddontsov**
 
