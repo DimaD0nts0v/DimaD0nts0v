@@ -8,7 +8,7 @@
 - 🌱 I am currently analyzing various data, looking for insights and making visualizations. In general, I work on pet projects)
 
 - 👨‍💻 All of my projects are available here or at **https://public.tableau.com/app/profile/ddontsov**
-- 📄 Know about my experiences [https://docs.google.com/document/d/1hjzF4QqhM55hY9POMbsg7EoHC6seU_krvnEnPhsgMzM/edit?usp=sharing](https://docs.google.com/document/d/1hjzF4QqhM55hY9POMbsg7EoHC6seU_krvnEnPhsgMzM/edit?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
