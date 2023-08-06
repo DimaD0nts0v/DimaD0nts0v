@@ -29,7 +29,6 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Clickhouse](https://camo.githubusercontent.com/1dc2823bd2461b1f2afa6f753e3309e0ee203053f14690766f8de1b9099430b2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d436c69636b686f7573652d4646463f7374796c653d666f722d7468652d6261646765266c6f676f3d436c69636b686f757365)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Tableau](https://camo.githubusercontent.com/adde367398c4a26acb7b27de95203f445c782fc0c946873fffb1b04a8d4a8e7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5461626c6561752d4646463f7374796c653d666f722d7468652d6261646765266c6f676f3d7461626c656175)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
