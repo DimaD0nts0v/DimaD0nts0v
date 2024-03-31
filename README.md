@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **https://t.me/dm_dontsov**
 
-- 🌱 I am currently working at Ozon Tech as a Research Analyst
+- 🌱 I am currently working at Ozon Tech as a Analyst Developer
 
 - 👨‍💻 All of my projects are available here or at **https://public.tableau.com/app/profile/ddontsov**
 
